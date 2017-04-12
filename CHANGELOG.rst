@@ -1,12 +1,11 @@
 CHANGELOG
 =========
 
-3.4.1 (unreleased)
+3.4.1 (2017-02-02)
 ------------------
 
 * Fixed an issue where the rendered HTML of plugins nested in text plugins
   leaked and became editable in some cases.
-
 
 3.4.0 (2017-01-23)
 ------------------
